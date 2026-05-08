@@ -21,7 +21,7 @@ function App() {
     <>
      <div>
       <Navbar/>
-      {/* {"Content } */}
+      {/* {"Content rrr } */}
        <Landing_Page/>
        <Section1/>
        <Section2/>
