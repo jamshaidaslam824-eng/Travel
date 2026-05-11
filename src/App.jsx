@@ -21,7 +21,7 @@ function App() {
     <>
      <div>
       <Navbar/>
-      {/* {"Content"} */}
+      {/* {"Content Merge kia lia ha yar"} */}
        <Landing_Page/>
        <Section1/>
        <Section2/>
